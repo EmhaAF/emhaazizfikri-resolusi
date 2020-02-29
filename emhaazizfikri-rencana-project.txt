@@ -5,7 +5,8 @@ RENCANA PROJECT EMHAAZIZFIKRI
   * Mencoba membuat project
   * Framework
   * Mencoba membuat project dengan Frameworks
-    ^Vue 
+    ^Vue
+    ^React
 - PHP
   ^Laravel
 - JAVA
