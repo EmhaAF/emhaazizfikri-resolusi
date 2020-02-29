@@ -2,3 +2,5 @@ EMHAAZIZFIKRI RESOLUSI
 - Konsisten ngoding 1x dalam satu hari
 - Membuat project aplikasi website
 - Bekerja dengan github
+- Membuat project aplikasi mobile
+- Kolaborasi dengan lebih banyak expert
