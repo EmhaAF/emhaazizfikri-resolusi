@@ -1,0 +1,8 @@
+RENCANA PROJECT EMHAAZIZFIKRI
+
+- Javascript
+  * ES6
+  * 
+- Mencoba membuat project
+- Framework
+- Mencoba membuat project dengan Frameworks
