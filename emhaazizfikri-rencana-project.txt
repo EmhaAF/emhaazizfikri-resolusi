@@ -5,6 +5,9 @@ RENCANA PROJECT EMHAAZIZFIKRI
   * Mencoba membuat project
   * Framework
   * Mencoba membuat project dengan Frameworks
+    ^ Angular
+    ^ React
 - PHP
+  ^ Laravel
 - JAVA
 - Android Studio
